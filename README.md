@@ -14,7 +14,7 @@ Dersten geçmek için minimum notu hesaplayan bir araç.
 ## 🔹 Kurulum
 1. Repo’yu bilgisayarınıza klonlayın.
 ```bash
-git clone https://github.com/zehratuncer/Final_Notu_Hesaplama.git
+git clone https://github.com/zehratuncer/not_hesaplama_uygulamasi.git
 Visual Studio’da açın.
 
 not_hesaplama_uygulamasi.sln dosyasını çalıştırın.
@@ -50,7 +50,7 @@ A tool that calculates the minimum grade to pass a course.
 ## 🔹 Installation
 1. Clone the repo to your computer.
 ```bash
-git clone https://github.com/zehratuncer/Final_Notu_Hesaplama.git
+git clone https://github.com/zehratuncer/not_hesaplama_uygulamasi.git
 Open it in Visual Studio.
 
 Run the file note_calculation_uygulamasi.sln.
